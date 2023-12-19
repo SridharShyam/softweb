@@ -889,9 +889,11 @@ contact.html
 
 ```
 ## OUTPUT:
-![Alt text](shyam/webapp/static/web1.png)
-![Alt text](shyam/webapp/static/web2.png)
-![Alt text](shyam/webapp/static/web3.png)
-![Alt text](shyam/webapp/static/web4.png)
+
+![web1](https://github.com/SridharShyam/softweb/assets/144871368/90be5c34-25d0-4523-8947-57b2fc26fb3c)
+![web2](https://github.com/SridharShyam/softweb/assets/144871368/e9233203-ca12-4d50-a161-3db5c6b4b718)
+![web3](https://github.com/SridharShyam/softweb/assets/144871368/97aad6f0-3093-4727-8b5a-9bf33ce9e628)
+![web4](https://github.com/SridharShyam/softweb/assets/144871368/ca9de904-5831-4251-b67b-304780b1a09c)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
