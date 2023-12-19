@@ -28,7 +28,10 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+```
+
 exstayre.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -318,7 +321,9 @@ exstayre.html
 
 </body>
 </html>
+
 people.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -498,7 +503,9 @@ people.html
                
 </body>
 </html>
+
 products.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -678,7 +685,9 @@ products.html
                
 </body>
 </html>
+
 contact.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -877,6 +886,7 @@ contact.html
                    
     </body>
     </html>
+
 ```
 ## OUTPUT:
 ![Alt text](shyam/webapp/static/web1.png)
