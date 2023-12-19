@@ -317,11 +317,8 @@ exstayre.html
     </footer>
 
 </body>
-
 </html>
-
 people.html
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -880,7 +877,7 @@ contact.html
                    
     </body>
     </html>
-
+```
 ## OUTPUT:
 ![Alt text](shyam/webapp/static/web1.png)
 ![Alt text](shyam/webapp/static/web2.png)
