@@ -317,8 +317,11 @@ exstayre.html
     </footer>
 
 </body>
+
 </html>
+
 people.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
